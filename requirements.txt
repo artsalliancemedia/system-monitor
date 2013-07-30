@@ -1,0 +1,5 @@
+psutil==1.0.1
+#only windows:
+WMI==1.4.9
+#only linux:
+#pysensors==0.0.2
