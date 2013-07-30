@@ -17,7 +17,7 @@ For Linux please comment the WMI line and uncomment the pysensors line.
 For Windows download and run Open Hardware Monitor: http://openhardwaremonitor.org/
 
 ### Next Steps
-Change the settings in settings.json to your needs.
+Take a copy of `settings-template.json`, name it `settings.json` and change the settings to your needs.
 
 To start the app, run:
 Start Open Hardware Monitor (Windows only)

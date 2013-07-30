@@ -5,3 +5,4 @@
 
 # No point committing compiled .pyc files
 *.pyc
+/settings.json
