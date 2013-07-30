@@ -1,0 +1,7 @@
+# Eclipse specific files
+/.project
+
+/.pydevproject
+
+# No point committing compiled .pyc files
+*.pyc
